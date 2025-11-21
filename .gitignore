@@ -25,11 +25,6 @@ __pycache__/
 # Large archives (handled manually)
 *.zip
 
-# Model weights or large pickle files
-*.pkl
-*.pth
-*.npy
-
 # ========================================
 # Logs / temp files
 # ========================================
